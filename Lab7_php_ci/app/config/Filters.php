@@ -1,0 +1,1 @@
+'Auth' =>App\Filters\Auth::class
